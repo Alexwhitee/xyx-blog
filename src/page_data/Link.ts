@@ -5,8 +5,8 @@ export default {
   data: [
     {
       "name": "明心",
-      "link": "https://www.vvhan.com",
-      "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640",
+      "link": "https://www.zb.abrdns.com/",
+      "avatar": "https://zycs-img-bys.pages.dev/v2/Hkymk5C.png",
       "descr": "心明则万象皆通。"
     }
     // {

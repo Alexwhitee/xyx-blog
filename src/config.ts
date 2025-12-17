@@ -1,26 +1,26 @@
 export default {
   // 网站标题
-  Title: '明心官网',
+  Title: '听风的blog',
   // 网站地址
   Site: 'https://vhastro-theme-cv9.pages.dev',
   // 网站副标题
-  Subtitle: '当玄学遇上AI',
+  Subtitle: '专注后端开发与RAG技术探索',
   // 网站描述
-  Description: '明心 专注于AI+玄学，致力于解答现代人的困惑。',
+  Description: '听风的个人技术博客，专注于后端开发、检索增强生成（RAG）技术分享，记录学习历程和技术心得。',
   // 网站作者
-  Author: 'vx:mingli359278',
+  Author: 'vx:haroldfinchh',
   // 作者头像
-  Avatar: 'https://22361523.zycs-img-bys.pages.dev/v2/fpCWd1e.jpeg',
+  Avatar: 'https://zycs-img-bys.pages.dev/v2/qmQXSf6.jpeg',
   // 网站座右铭
-  Motto: '知行合一，明心见性。',
+  Motto: '路漫漫其修远兮，吾将上下而求索。',
   // Cover 网站缩略图
   Cover: '/assets/images/banner/072c12ec85d2d3b5.webp',
   // 网站侧边栏公告 (不填写即不开启)
-  Tips: '<p>欢迎光临明心网站 🎉</p><p>这里有着你想知道的一切 💖</p>',
+  Tips: '<p>欢迎来到听风的技术博客 🎉</p><p>专注后端开发与RAG技术分享 💖</p>',
   // 首页打字机文案列表
   TypeWriteList: [
-    '心明则万象皆通。',
-    'Clarity of mind connects all things.',
+    '探索技术的无限可能。',
+    '在代码的世界里不断求索。',
   ],
   // 网站创建时间
   CreateTime: '2025-10-31',
@@ -58,17 +58,17 @@ export default {
     { text: '昔日', link: '/archives', icon: 'Nav_archives' },
     { text: '留言', link: '/message', icon: 'Nav_message' },
     { text: '关于', link: '/about', icon: 'Nav_about' },
-    { text: '下载', link: 'https://pan.baidu.com/s/1qB4SWwICGz-pewb0MRDv1Q?pwd=qwer', target: true, icon: 'Nav_link' },
+    { text: 'GitHub', link: 'https://github.com', target: true, icon: 'Nav_link' },
   ],
   // 侧边栏个人网站
   WebSites: [
     // 仅支持 SVG 且 SVG 需放在 public/assets/images/svg/ 目录下，填入文件名即可 <不需要文件后缀名>（封装了 SVG 组件 为了极致压缩 SVG）
     // 建议使用 https://tabler.io/icons 直接下载 SVG
-    { text: '明心排盘', link: 'https://www.zb.abrdns.com', icon: 'WebSite_github' },
-    { text: '明心塔罗', link: 'https://www.sbzb.ip-ddns.com', icon: 'WebSite_api' },
-    { text: '明心占星', link: 'https://www.tf.abrdns.com', icon: 'WebSite_hot' },
-    { text: '明心紫微', link: 'https://www.xyy.abrdns.com', icon: 'WebSite_img' },
-    { text: '明心工具', link: 'https://www.yunxi.abrdns.com', icon: 'WebSite_analytics' },
+    { text: 'GitHub', link: 'https://github.com', icon: 'WebSite_github' },
+    { text: 'Stack Overflow', link: 'https://stackoverflow.com', icon: 'WebSite_api' },
+    { text: '掘金', link: 'https://juejin.cn', icon: 'WebSite_hot' },
+    { text: '博客园', link: 'https://www.cnblogs.com', icon: 'WebSite_img' },
+    { text: 'CSDN', link: 'https://www.csdn.net', icon: 'WebSite_analytics' },
   ],
   // 侧边栏展示
   AsideShow: {
