@@ -1,9 +1,9 @@
 ---
-title: "Chapter1/Chapter1 解锁RAG"
+title: "Chapter1 解锁RAG"
 categories: 技术
 tags: ["RAG", "AI", "检索增强生成"]
 id: "rag-introduction-guide"
-date: 2025-12-16 18:18:18
+date: 2025-12-18 18:18:18
 recommend: true
 top: true
 ---
@@ -385,6 +385,6 @@ print(query_engine.get_prompts())          # 查看Prompt模板
 print(query_engine.query("文中举了哪些例子?")) # 执行查询
 ```
 
-> 参考： https://datawhalechina.github.io/all-in-rag/
+> 参考教程： https://datawhalechina.github.io/all-in-rag/
 
 
