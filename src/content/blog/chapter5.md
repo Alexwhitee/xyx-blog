@@ -6,6 +6,7 @@ id: "rag-formatted-generation"
 date: 2025-12-22 18:18:18
 recommend: false
 top: true
+hide: true
 ---
 
 ## 第五章学习笔记

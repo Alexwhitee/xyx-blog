@@ -7,6 +7,7 @@ id: "rag-embeddings-vector-db"
 date: 2025-12-20 18:18:18
 recommend: false
 top: true
+hide: true
 ---
 
 ## 第三章学习笔记

@@ -6,6 +6,7 @@ id: "knowledge-graph-neo4j"
 date: 2025-12-27 18:18:18
 recommend: false
 top: true
+hide: true
 ---
 
 ## 第十一章学习笔记：知识图谱与Neo4j

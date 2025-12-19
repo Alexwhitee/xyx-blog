@@ -6,6 +6,7 @@ id: "rag-advanced-retrieval"
 date: 2025-12-21 18:18:18
 recommend: false
 top: true
+hide: true
 ---
 
 ## 第四章学习笔记
