@@ -1,4 +1,3 @@
-
 ---
 title: "Chapter3 向量嵌入与向量数据库"
 categories: 技术
@@ -6,8 +5,8 @@ tags: ["RAG", "向量嵌入", "向量数据库", "多模态", "Milvus"]
 id: "rag-embeddings-vector-db"
 date: 2025-12-20 18:18:18
 recommend: false
-top: true
-hide: true
+top: false
+hide: false
 ---
 
 ## 第三章学习笔记

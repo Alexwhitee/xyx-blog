@@ -5,8 +5,8 @@ tags: ["RAG", "混合检索", "查询构建", "重排序", "检索优化"]
 id: "rag-advanced-retrieval"
 date: 2025-12-21 18:18:18
 recommend: false
-top: true
-hide: true
+top: false
+hide: false
 ---
 
 ## 第四章学习笔记
