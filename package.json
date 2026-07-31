@@ -40,12 +40,5 @@
     "remark-sectionize": "^2.1.0",
     "typescript": "^5.9.2",
     "unist-util-visit": "^5.0.0"
-  },
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "esbuild",
-      "sharp",
-      "swup"
-    ]
   }
 }

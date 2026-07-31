@@ -1,7 +1,5 @@
 {
-  "name": "vh-astro",
+  "name": "xyx-blog",
   "compatibility_date": "2025-03-31",
-  "assets": {
-    "directory": "./dist"
-  }
+  "pages_build_output_dir": "./dist"
 }
