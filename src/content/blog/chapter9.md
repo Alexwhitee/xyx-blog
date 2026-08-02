@@ -6,7 +6,7 @@ id: "rag-graph-architecture"
 date: 2025-12-26 18:18:18
 recommend: false
 top: true
-hide: true
+hide: false
 ---
 
 ## 第九章学习笔记：图RAG系统架构与实现

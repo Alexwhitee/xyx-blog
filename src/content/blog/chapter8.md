@@ -6,7 +6,7 @@ id: "rag-practical-project"
 date: 2025-12-25 18:18:18
 recommend: false
 top: true
-hide: true
+hide: false
 ---
 
 ## 第八章学习笔记：RAG系统实战
